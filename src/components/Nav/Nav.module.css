@@ -1,0 +1,16 @@
+nav {
+	/* border-bottom: 2px solid grey; */
+	box-shadow: 5px 3px 8px #e3e3e3;
+	/* display: flex;
+	flex-direction: row; */
+	/* min-height: 70px; */
+}
+
+.navLogo {
+	width: 20%;
+	max-width: 82px;
+	/* todo - convert padding to em */
+	padding-top: 22px;
+	padding-bottom: 22px;
+	padding-left: 27px;
+}
