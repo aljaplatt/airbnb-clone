@@ -1,3 +1,4 @@
+import Card from '../Card/Card';
 import Hero from '../Hero/Hero';
 import Nav from '../Nav/Nav';
 import './App.css';
@@ -7,6 +8,7 @@ function App() {
 		<div className="App">
 			<Nav />
 			<Hero />
+			<Card />
 		</div>
 	);
 }

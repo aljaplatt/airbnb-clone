@@ -1,0 +1,22 @@
+.card {
+	width: 175px;
+	font-size: 12px;
+}
+
+.cardImg {
+	width: 100%;
+	border-radius: 9px;
+}
+
+.cardStats {
+	display: flex;
+	align-items: center;
+}
+
+.cardStar {
+	width: 8%;
+}
+
+.cardBold {
+	font-weight: bolder;
+}
